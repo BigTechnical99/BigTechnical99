@@ -5,6 +5,11 @@
  - [Portable Linux Infrastructure Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   
 
+<h2>👨‍💻 HelpDesk Practice/Homelabs:</h2>
+
+ - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
 <h2>👨‍💻 Personal Projects:</h2>
 
  - [Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
