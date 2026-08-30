@@ -3,7 +3,7 @@
 <h2>👨‍💻 Linux Projects:</h2>
 
  - [Portable Linux Infrastructure Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  
+ - [Raspberry Pi DNS Securtiy Server](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 HelpDesk Practice/Homelabs:</h2>
 
