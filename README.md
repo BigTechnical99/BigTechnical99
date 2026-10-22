@@ -3,7 +3,7 @@
 <h2>👨‍💻 Linux Projects:</h2>
 
  - [Portable Linux Infrastructure Lab](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Raspberry Pi Network-Wide DNS Ad Blocker](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Raspberry Pi Network-Wide DNS Ad Blocker](https:https://github.com/BigTechnical99/Raspberry-Pi-DNS-Server-Lab)
 
 <h2>👨‍💻 HelpDesk Practice/Homelabs:</h2>
 
