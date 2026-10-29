@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 Linux Projects:</h2>
 
- - [Portable Linux Infrastructure Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ - Portable Linux Infrastructure Lab *(Coming Soon)*
  - [Raspberry Pi Network-Wide DNS Ad Blocker](https://github.com/BigTechnical99/Raspberry-Pi-DNS-Server-Lab)
 <h2>👨‍💻 HelpDesk Practice/Homelabs:</h2>
 
- - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ - Active Directory Home Lab *(Coming Soon)*
 
 
 <h2>👨‍💻 Personal Projects:</h2>
 
- - [Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
+ - Portfolio Website *(Coming Soon)*
   
 
 
@@ -25,11 +25,7 @@
 
 <h2>📺 Tutorials/YouTube Videos</h2>
 
-- [Portable Linux Infrastructure Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Tutorials coming soon.
 
 <h2> 🤳 Connect with me:</h2>
 
