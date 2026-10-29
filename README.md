@@ -9,6 +9,10 @@
  - Active Directory Home Lab *(Coming Soon)*
 
 
+<h2>🛠️ Troubleshooting &amp; Repairs:</h2>
+
+ - [Epson WF-4730 Printer Troubleshooting](https://github.com/BigTechnical99/epson-wf4730-printer-troubleshooting) — Power restored; missing black ink cartridge identified. *(Paused — print testing pending)*
+
 <h2>👨‍💻 Personal Projects:</h2>
 
  - Portfolio Website *(Coming Soon)*
