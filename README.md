@@ -11,7 +11,7 @@
 
 <h2>🛠️ Troubleshooting &amp; Repairs:</h2>
 
- - [Epson WF-4730 Printer Troubleshooting](https://github.com/BigTechnical99/epson-wf4730-printer-troubleshooting) — Power restored; missing black ink cartridge identified. *(Paused — print testing pending)*
+ - [Epson WF-4730 Printer Troubleshooting](https://github.com/BigTechnical99/epson-wf4730-printer-troubleshooting) — Power restored; cartridges replaced and installation error cleared. *(In progress — troubleshooting printer error 000084)*
 
 <h2>👨‍💻 Personal Projects:</h2>
 
